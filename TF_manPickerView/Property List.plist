@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title1</key>
+		<string>性别</string>
+		<key>title2</key>
+		<string>男</string>
+	</dict>
+	<dict>
+		<key>title1</key>
+		<string>身高</string>
+		<key>title2</key>
+		<string>170</string>
+	</dict>
+	<dict>
+		<key>title1</key>
+		<string>体重</string>
+		<key>title2</key>
+		<string>60</string>
+	</dict>
+	<dict>
+		<key>title1</key>
+		<string>出生年月</string>
+		<key>title2</key>
+		<string>2016-05-11</string>
+	</dict>
+	<dict>
+		<key>title1</key>
+		<string>自定义</string>
+		<key>title2</key>
+		<string>小鹿</string>
+	</dict>
+	<dict>
+		<key>title1</key>
+		<string>选择比赛时间</string>
+		<key>title2</key>
+		<string>2016-05-11 08:14</string>
+	</dict>
+	<dict>
+		<key>title1</key>
+		<string>选择颜色</string>
+		<key>title2</key>
+		<string>青</string>
+	</dict>
+</array>
+</plist>
